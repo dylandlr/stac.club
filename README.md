@@ -4,4 +4,4 @@
 
 ### This website is devoloped and deployed using a combination of Hugo and Netlify   
 
-Website maintained by Atheer Auribi
+Website maintained by Atheer Auribi, Dylan De La Rosa
