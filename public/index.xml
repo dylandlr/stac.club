@@ -6,8 +6,15 @@
     <description>Recent content on Science Technology And Computing Club</description>
     <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/calendar/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/calendar/</guid>
+      <description>Join STACC Meetings &amp; Events&#xD;Explore upcoming events on our website! Mark yourself as attending or not, and we value your contribution. Thank you for your engagement!&#xA;Events&#xD;Loading...&#xD;Interested in only certain Events?&#xD;If you would like to reccomend any event ideas, send us an email at:&#xA;stacc.rellis@gmail.com </description>
+    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/ctf/</link>
@@ -21,13 +28,6 @@
       <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>We are the STACC at RELLIS!&#xD;We are focused on creating a place for students to collaborate and improve in whatever field they want to pursue in the industry. From resume workshops, guest speakers, technical workshops, and even mock interviews, we aim to provide a diverse array of meetings and resources to achieve this goal.&#xA;STACC meetings are held at the TAMUS RELLIS campus, but we welcome students from everywhere!</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/calendar/</link>
-      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/calendar/</guid>
-      <description>Support The STACC&#xD;Join us in keeping the excitement alive! Your support tremendously helps the success of our events. We truly appreciate your contribution!&#xA;T-Shirts&#xD;Interested in Sponsoring?&#xD;If you would like to support the STACC&amp;rsquo;s goal of fostering the next generation of technical experts, send us an email at:&#xA;stacc.rellis@gmail.com </description>
     </item>
     <item>
       <title></title>

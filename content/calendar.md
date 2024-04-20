@@ -6,10 +6,10 @@ aliases = ["events","events-stacc"]
   name = "STACC"
 +++
 
-<center><h1>Join The <div style="color: #07a500; display: inline;">STACC</div></h1></center>
+<center><h1>Join <div style="color: #07a500; display: inline;">STACC</div> Meetings & Events</h1></center>
 
 
-Join us in keeping the excitement alive! Your support tremendously helps the success of our events. We truly appreciate your contribution!
+Explore upcoming events on our website! Mark yourself as attending or not, and we value your contribution. Thank you for your engagement!
 
 
 ----------------------------------------------------------------
