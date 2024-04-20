@@ -55,7 +55,7 @@ paginate     = 10
     bottomText = ["TAMUC at RELLIS"]
 
 # [params.portrait]
-#    path     = "/images/OFFICIAL_green_logo.PNG"
+#    path     = "../images/OFFICIAL_green_logo.PNG"
 #    alt      = "Logo"
 #    maxWidth = "500px"
 
@@ -63,14 +63,6 @@ paginate     = 10
     category = "blog"
     tag      = "tags"
     series   = "series"
-
-[languages]
-  [languages.en]
-    title = "Science Technology And Computing Club"
-    subtitle = ""
-    keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
 
   # And you can even create generic menu
   [main]
@@ -82,6 +74,10 @@ paginate     = 10
       identifier = "Support Us"
       name       = "Support Us"
       url        = "support/"
+    [[menu.main]]
+      identifier = "Events"
+      name       = "Events"
+      url        = "events/"
 
 # Allows for html tag rendering in markdown files
 [markup.goldmark.renderer]
