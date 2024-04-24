@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science Technology And Computing Club</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Science Technology And Computing Club</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/events/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/</guid>
+      <description>Join STACC Meetings &amp; Events&#xD;Explore upcoming events on our website! Mark yourself as attending or not, and we value your contribution. Thank you for your engagement!&#xA;Events&#xD;Loading...&#xD;Interested in only certain Events?&#xD;If you would like to reccomend any event ideas, send us an email at:&#xA;stacc.rellis@gmail.com </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ctf/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ctf/</guid>
+      <description>What is a CTF?&#xD;A CTF, or a Capture The Flag, is a friendly competition consisting of a collection of cyber security challenges. Flags are secretly hidden in these specially designed challenges. Competitors try to steal flags either from the organizers (jeopardy-style CTFs) or from other competitors (attack/defense-style CTFs). The aim of a CTF is to challenge its contestants and to help them improve their skills in cyber security. The CTF that we are holding is a jeopardy style CTF that&amp;rsquo;s great for beginners and intermediate students in the field, so if you are a beginner don’t be shy to participate!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>We are the STACC at RELLIS!&#xD;We are focused on creating a place for students to collaborate and improve in whatever field they want to pursue in the industry. From resume workshops, guest speakers, technical workshops, and even mock interviews, we aim to provide a diverse array of meetings and resources to achieve this goal.&#xA;STACC meetings are held at the TAMUS RELLIS campus, but we welcome students from everywhere!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/support/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/support/</guid>
+      <description>Support The STACC&#xD;Join us in keeping the excitement alive! Your support tremendously helps the success of our events. We truly appreciate your contribution!&#xA;T-Shirts&#xD;Loading…&#xD;Interested in Sponsoring?&#xD;If you would like to support the STACC&amp;rsquo;s goal of fostering the next generation of technical experts, send us an email at:&#xA;stacc.rellis@gmail.com </description>
+    </item>
+  </channel>
+</rss>
