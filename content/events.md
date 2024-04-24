@@ -19,6 +19,6 @@ Explore upcoming events on our website! Mark yourself as attending or not, and w
 
 <center><h2>Interested in only certain Events?</h2></center>
 
-If you would like to reccomend any event ideas, send us an email at:
+If you would like to recommend any event ideas, send us an email at:
 
 #### stacc.rellis@gmail.com
