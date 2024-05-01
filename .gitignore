@@ -8,6 +8,7 @@ node_modules/
 # might be good to ignore public build files since its not in the main root
 /public 
 # Secrets
-.env
+**/.env
+
 
 
