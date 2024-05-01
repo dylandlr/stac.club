@@ -1,7 +1,7 @@
 // platform/router/router.go
 
 package router
-router.GET("/user", middleware.IsAuthenticated, user.Handler)
+
 import (
 	"encoding/gob"
 	"net/http"
@@ -21,7 +21,7 @@ import (
 // New registers the routes and returns the router.
 func New(auth *authenticator.Authenticator) *gin.Engine {
 	router := gin.Default()
-
+	router.GET("/user", middleware.IsAuthenticated, user.Handler)
 	// To store custom types in our cookies,
 	// we must first register them using gob.Register
 	gob.Register(map[string]interface{}{})
