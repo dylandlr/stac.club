@@ -6,8 +6,9 @@ aliases = ["user","user-stacc"]
   name = "STACC"
 +++
 
-
+<center>
 <div>
     <img class="avatar" src="{{ .picture }}"/>
     <h2>Welcome {{.nickname}}</h2>
 </div>
+</center>
