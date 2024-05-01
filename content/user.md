@@ -1,7 +1,7 @@
 +++
 title = ""
 date = "2024-04-19"
-aliases = ["euser","user-stacc"]
+aliases = ["user","user-stacc"]
 [ author ]
   name = "STACC"
 +++
