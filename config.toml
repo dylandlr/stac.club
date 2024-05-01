@@ -80,7 +80,7 @@ paginate     = 10
       url        = "events/"
     [[menu.main]]
       identifier = "User"
-      name       = "user"
+      name       = "Profile"
       url        = "user/"
 
 # Allows for html tag rendering in markdown files
