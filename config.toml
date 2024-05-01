@@ -78,6 +78,10 @@ paginate     = 10
       identifier = "Events"
       name       = "Events"
       url        = "events/"
+    [[menu.main]]
+      identifier = "User"
+      name       = "user"
+      url        = "user/"
 
 # Allows for html tag rendering in markdown files
 [markup.goldmark.renderer]
