@@ -10,10 +10,24 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://localhost:1313/callback/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/callback/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost:1313/events/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/events/</guid>
-      <description>Join STACC Meetings &amp; Events&#xD;Explore upcoming events on our website! Mark yourself as attending or not, and we value your contribution. Thank you for your engagement!&#xA;Events&#xD;Loading...&#xD;Interested in only certain Events?&#xD;If you would like to reccomend any event ideas, send us an email at:&#xA;stacc.rellis@gmail.com </description>
+      <description>Join STACC Meetings &amp; Events&#xD;Explore upcoming events on our website! Mark yourself as attending or not, and we value your contribution. Thank you for your engagement!&#xA;Events&#xD;Interested in only certain Events?&#xD;If you would like to reccomend any event ideas, send us an email at:&#xA;stacc.rellis@gmail.com </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/user/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/user/</guid>
+      <description>&#xD;Welcome {{.nickname}}&#xD;</description>
     </item>
     <item>
       <title></title>
