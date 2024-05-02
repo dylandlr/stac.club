@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@auth0/auth0-spa-js": "^1.22.6",
+    "auth0-spa-js": "^1.6.5",
     "cypress": "^13.8.0",
     "http-server": "^14.1.1"
   }
