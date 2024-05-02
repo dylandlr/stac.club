@@ -11,7 +11,7 @@ aliases = ["callback","callback-stacc"]
 <script>
 window.onload = () => {
     auth0.handleRedirectCallback().then((redirectResult) => {
-        window.location.href = "/";
+        window.location.href = "/callback";
     }).catch(e => console.error(e));
 };
 </script>
