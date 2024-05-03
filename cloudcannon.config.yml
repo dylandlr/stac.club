@@ -22,6 +22,10 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+_enabled_editors:
+  - content
+  - visual
+  - data
 _inputs:
   signup_email:
     type: email
