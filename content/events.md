@@ -1,9 +1,10 @@
 +++
 title = ""
-date = "2024-04-19"
-aliases = ["events","events-stacc"]
-[ author ]
-  name = "STACC"
+date = "2024-05-03T01:09:41.955Z"
+aliases = [ "events", "events-stacc" ]
+
+[author]
+name = "STACC"
 +++
 
 <center><h1>Join <div style="color: #07a500; display: inline;">STACC</div> Meetings & Events</h1></center>
