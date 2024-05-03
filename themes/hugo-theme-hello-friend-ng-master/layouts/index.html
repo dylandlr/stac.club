@@ -27,6 +27,12 @@
                     {{ partial "social-icons.html" . }}
                 </div>
             {{- end }}
+
+            {{- with .Site.Params.user }}
+                <div>
+                    {{ partial "user_login.html" . }}
+                </div>
+            {{- end }}
         </div>
     </main>
 {{ end }}
