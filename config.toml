@@ -1,9 +1,9 @@
-baseURL = 'https://stac.club/'
+baseURL = 'https://stacc.site'
 title        = "Science Technology And Computing Club"
 languageCode = "en-us"
 theme        = "hugo-theme-hello-friend-ng-master"
 paginate     = 10
-
+ 
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
