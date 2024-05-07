@@ -7,7 +7,8 @@ draft = false
 [author]
 name = "STACC"
 +++
-<!-- 
+
+<!--
 <center>
 <div>
     <img class="avatar" src="{{ .picture }}"/>
@@ -17,3 +18,5 @@ name = "STACC"
 <script>
     <button id="authorize_button" onclick="handleAuthClick()">Sign In</button>
 </script>
+
+-- work in progress --

@@ -14,8 +14,8 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: Inter, -apple-system, BlinkMacSystemFont, "Roboto",
-    "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+    Helvetica, Arial, sans-serif;
   font-display: auto;
   font-size: 1rem;
   line-height: 1.54;
@@ -47,12 +47,12 @@ body {
     color: $light-color;
   }
 
-  [data-theme=dark] & {
+  [data-theme="dark"] & {
     background-color: $dark-background;
     color: $dark-color;
   }
 
-  [data-theme=light] & {
+  [data-theme="light"] & {
     background-color: $light-background;
     color: $light-color;
   }
@@ -189,7 +189,9 @@ figure {
   }
 }
 
-em, i, strong {
+em,
+i,
+strong {
   // Default
   color: $light-color-variant;
 
@@ -201,11 +203,11 @@ em, i, strong {
     color: $light-color-variant;
   }
 
-  [data-theme=dark] & {
+  [data-theme="dark"] & {
     color: white;
   }
 
-  [data-theme=light] & {
+  [data-theme="light"] & {
     color: black;
   }
 }
@@ -229,21 +231,21 @@ code {
     background: $light-background-secondary;
   }
 
-  [data-theme=dark] & {
+  [data-theme="dark"] & {
     background: $dark-background-secondary;
   }
 
-  [data-theme=light] & {
+  [data-theme="light"] & {
     background: $light-background-secondary;
   }
 }
 
 pre {
-  [data-theme=dark] & {
+  [data-theme="dark"] & {
     background-color: $dark-background-secondary;
   }
 
-  [data-theme=light] & {
+  [data-theme="light"] & {
     background-color: $light-background-secondary;
   }
 
@@ -268,16 +270,16 @@ pre {
     @media (prefers-color-scheme: dark) {
       color: inherit;
     }
-  
+
     @media (prefers-color-scheme: light) {
       color: #ccc;
     }
-  
-    [data-theme=dark] & {
+
+    [data-theme="dark"] & {
       color: inherit;
     }
-  
-    [data-theme=light] & {
+
+    [data-theme="light"] & {
       color: #ccc;
     }
   }
@@ -362,11 +364,11 @@ hr {
     background: $light-border-color;
   }
 
-  [data-theme=dark] & {
+  [data-theme="dark"] & {
     background: $dark-border-color;
   }
 
-  [data-theme=light] & {
+  [data-theme="light"] & {
     background: $light-border-color;
   }
 }
@@ -432,4 +434,29 @@ hr {
 // Prism JS Additionals
 .highlight {
   margin: 30px auto;
+}
+// Custom CSS BUTTONS
+.btn {
+  padding: 10px 20px;
+  background-color: $primary-500;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.btn:hover {
+  background-color: $primary-600;
+}
+
+#event-details h1 {
+  color: #2a9d8f;
+  font-size: 24px;
+}
+#event-details p {
+  color: #264653;
+  font-size: 16px;
+}
+#event-dropdown {
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 200px;
 }
